@@ -46,11 +46,11 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(269, 9);
+            label1.Location = new Point(327, 9);
             label1.Name = "label1";
-            label1.Size = new Size(150, 20);
+            label1.Size = new Size(18, 20);
             label1.TabIndex = 0;
-            label1.Text = "Kalkulator Sederhana";
+            label1.Text = "...";
             label1.Click += label1_Click;
             // 
             // button1
