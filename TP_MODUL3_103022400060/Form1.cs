@@ -16,8 +16,8 @@ namespace TP_MODUL3_103022400060
             button3.Click += button3_Click;
             button4.Click += button4_Click;
             button5.Click += button5_Click;
-            button6.Click += button6_Click;
-            button7.Click += button7_Click;
+            //button6.Click += button6_Click;
+            //button7.Click += button7_Click;
             button8.Click += button8_Click;
             button9.Click += button9_Click;
             button10.Click += button10_Click; 
